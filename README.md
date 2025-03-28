@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **React & Next JS**
 
-- 📫 How to reach me **https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BdSAaVAykSdmPFmUu3JFRvA%3D%3D**
+- 📫 How to reach me **https://www.linkedin.com/in/charlesbasil/**
 
 - ⚡ Fun fact **I'm open to new ideas**
 
