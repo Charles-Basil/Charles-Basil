@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **SocialBook**
 
-- 🌱 I’m currently learning **React, Vue.js**
+- 🌱 I’m currently learning **React, Next JS**
 
-- 👯 I’m looking to collaborate on **Snapgram Clone app**
+- 👯 I’m looking to collaborate on **React & Next JS**
 
-- 📫 How to reach me **promisejack52@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BdSAaVAykSdmPFmUu3JFRvA%3D%3D**
 
 - ⚡ Fun fact **I'm open to new ideas**
 
