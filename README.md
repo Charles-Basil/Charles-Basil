@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charles-basil&label=Profile%20views&color=0e75b6&style=flat" alt="charles-basil" /> </p>
 
-- 🔭 I’m currently working on **SocialBook**
+- 🔭 I’m currently working on **E-commerce website**
 
 - 🌱 I’m currently learning **React, Next JS**
 
